@@ -1,8 +1,8 @@
-# Project 2: Payment Reliability & Failed Transactions
+# Payment Reliability & Failed Transactions
 
 **Where, when and why do payments fail, and how much of the loss can PayBridge NG recover?**
 
-*Project 2 of 9 built on the PayBridge dataset. Tools: SQL Server, Power BI.*
+*Tools: SQL Server, Power BI.*
 
 ![Payment Reliability dashboard](image/dashboard.png)
 <!-- Add your finished dashboard screenshot to the images folder as dashboard.png -->
