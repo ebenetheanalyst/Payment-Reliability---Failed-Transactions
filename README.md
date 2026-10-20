@@ -4,7 +4,7 @@
 
 *Project 2 of 9 built on the PayBridge dataset. Tools: SQL Server, Power BI.*
 
-![Payment Reliability dashboard](images/dashboard.png)
+![Payment Reliability dashboard](image/dashboard.png)
 <!-- Add your finished dashboard screenshot to the images folder as dashboard.png -->
 
 > **About this project.** PayBridge NG is a fictional company and all data is synthetic. Some patterns were built into the simulation so the analysis has something to find. The purpose is to demonstrate the method: framing a business problem, building a reliable analytical layer, testing hypotheses, and recommending action with a naira value attached.
